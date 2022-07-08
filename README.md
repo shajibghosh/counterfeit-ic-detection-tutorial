@@ -5,7 +5,7 @@ The goal of this tutorial is to show the step-by-step process of developing a hi
 
 **This tutorial has two parts:**
 
-Part-1: Image Pre-processing for Counterfeit IC Detection <a href="https://colab.research.google.com/github/shajibghosh/counterfeit-ic-detection-tutorial/blob/main/image_preprocessing_counterfeit_detection.ipynb">
+Part-1: Image Pre-processing for Counterfeit IC Detection <a href="https://colab.research.google.com/github/shajibghosh/colabtools/counterfeit-ic-detection-tutorial/blob/main/image_preprocessing_counterfeit_detection.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
