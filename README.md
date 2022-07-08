@@ -3,7 +3,7 @@ The lack of traceability in the globalized electronics supply chain results in t
 
 The goal of this tutorial is to show the step-by-step process of developing a highly-accurate automated method to identify counterfeit ICs from their labeled optical images.
 
-**Tutorial has two parts:**
+**This tutorial has two parts:**
 
 Part-1: Image Pre-processing for Counterfeit IC Detection
 
