@@ -9,4 +9,6 @@ Part-1: Image Pre-processing for Counterfeit IC Detection <a href="https://colab
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Part-2: Counterfeit IC Detection 
+Part-2: Counterfeit IC Detection <a href="https://colab.research.google.com/github/shajibghosh/counterfeit-ic-detection-tutorial/blob/main/counterfeit_ic_detection.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
